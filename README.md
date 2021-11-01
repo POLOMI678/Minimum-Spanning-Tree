@@ -1,3 +1,3 @@
 # Kruskal-s-Algorithm
 
-This is a program to show the implementation of kruskal's algorithm
+This is a program to find the cost of a minimum spanning tree
